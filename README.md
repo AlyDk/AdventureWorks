@@ -69,6 +69,13 @@ To simulate a business-focused data analysis pipeline that:
 
 ---
 
+## 🔗 Data Source
+
+This project uses the Microsoft Power BI AdventureWorks Sales Sample:  
+[AdventureWorks Sales.xlsx](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx?utm_source=chatgpt.com)
+
+---
+
 ## ✅ Ideal For
 
 - SQL and ETL portfolio demonstration
