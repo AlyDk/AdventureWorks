@@ -61,6 +61,15 @@ To simulate a business-focused data analysis pipeline that:
 
 ---
 
+
+\## 📊 Dashboard Snapshot
+
+
+
+![AdventureWorks Dashboard](PowerBI/Dashboard_Page1.png)
+
+---
+
 ## 📌 Key Notes
 
 - Invalid foreign keys (`-1`) replaced with dummy entries: `CustomerKey = 10999`, `ResellerKey = 0`
