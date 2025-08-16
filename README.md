@@ -66,7 +66,7 @@ To simulate a business-focused data analysis pipeline that:
 
 
 
-![AdventureWorks Dashboard](PowerBI/Dashboard_Page1.png)
+![AdventureWorks Dashboard](PowerBI/Dashboard%20Page1.png)
 
 ---
 
