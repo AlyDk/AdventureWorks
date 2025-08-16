@@ -87,7 +87,7 @@ This project uses the Microsoft Power BI AdventureWorks Sales Sample:
 ## 🧑‍💻 Author
 
 Ali Dakak
-https://www.linkedin.com/in/ali-dakak-2a003087
-https://cutt.ly/ali-resume-dsportfolio
-https://cutt.ly/ali-resume-tableau
-https://cutt.ly/ali-resume-github
+- https://www.linkedin.com/in/ali-dakak-2a003087
+- https://cutt.ly/ali-resume-dsportfolio
+- https://cutt.ly/ali-resume-tableau
+- https://cutt.ly/ali-resume-github
